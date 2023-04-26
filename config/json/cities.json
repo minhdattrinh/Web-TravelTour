@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Hà Nội",
+    "code": "01"
+  },
+  {
+    "name": "Hạ Long",
+    "code": "02"
+  },
+  {
+    "name": "Sapa",
+    "code": "03"
+  },
+  {
+    "name": "Ninh Bình",
+    "code": "04"
+  },
+  {
+    "name": "Mộc Châu",
+    "code": "05"
+  },
+  {
+    "name": "Hà Giang",
+    "code": "06"
+  },
+  {
+    "name": "Đà Nẵng",
+    "code": "07"
+  },
+  {
+    "name": "Hội An",
+    "code": "08"
+  },
+  {
+    "name": "Huế",
+    "code": "09"
+  },
+  {
+    "name": "Tây Nguyên",
+    "code": "10"
+  },
+  {
+    "name": "Đà Lạt",
+    "code": "11"
+  },
+  {
+    "name": "Quy Nhơn",
+    "code": "12"
+  },
+  {
+    "name": "Nha Trang",
+    "code": "13"
+  },
+  {
+    "name": "Phan Thiết",
+    "code": "14"
+  },
+  {
+    "name": "Vũng Tàu",
+    "code": "15"
+  },
+  {
+    "name": "Tp. Hồ Chí Minh",
+    "code": "16"
+  },
+  {
+    "name": "Bến Tre",
+    "code": "17"
+  },
+  {
+    "name": "Miền Tây",
+    "code": "18"
+  },
+  {
+    "name": "Phú Quốc",
+    "code": "19"
+  },
+  {
+    "name": "Côn Đảo",
+    "code": "20"
+  },
+  {
+    "name": "Campuchia",
+    "code": "100"
+  },
+  {
+    "name": "Đài Loan",
+    "code": "101"
+  },
+  {
+    "name": "Hàn Quốc",
+    "code": "102"
+  },
+  {
+    "name": "Hồng Kông",
+    "code": "103"
+  },
+  {
+    "name": "Malaysia",
+    "code": "104"
+  },
+  {
+    "name": "Nhật Bản",
+    "code": "105"
+  },
+  {
+    "name": "Singapore",
+    "code": "106"
+  },
+  {
+    "name": "Thái Lan",
+    "code": "107"
+  },
+  {
+    "name": "Trung Quốc",
+    "code": "108"
+  },
+  {
+    "name": "Châu Âu",
+    "code": "109"
+  }
+]
